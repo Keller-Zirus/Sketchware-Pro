@@ -78,6 +78,7 @@
             android:paddingLeft="8dp"
             android:paddingRight="8dp"
             android:textColor="@color/primary_text_default_material_dark"
+            android:background="@drawable/dialog_button_blue"
             android:textSize="14sp" />
 
         <android.widget.Space
@@ -95,6 +96,7 @@
             android:paddingLeft="8dp"
             android:paddingRight="8dp"
             android:textColor="@color/primary_text_default_material_dark"
+            android:background="@drawable/dialog_button_blue"
             android:textSize="14sp" />
 
         <TextView
@@ -105,6 +107,7 @@
             android:paddingLeft="8dp"
             android:paddingRight="8dp"
             android:textColor="@color/primary_text_default_material_dark"
+            android:background="@drawable/dialog_button_blue"
             android:textSize="14sp" />
     </LinearLayout>
 </LinearLayout>
